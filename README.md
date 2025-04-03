@@ -1,4 +1,4 @@
-# README
+# R Program
 
 ## Overview
 This R program is designed to help users understand various statistical methods used to calculate different values, including measures of central tendency, dispersion, correlation, and hypothesis testing.
